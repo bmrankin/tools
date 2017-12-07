@@ -64,3 +64,5 @@ function generatePushID() {
   }
   
   //https://gist.githubusercontent.com/mikelehen/3596a30bd69384624c11/raw/8c8c5e681e03c563dd761b9a15ccf15b1422d547/generate-pushid.js
+  // Added cmd line param and loop to console log however many ids are needed
+  // node firebas_ids.js 128
